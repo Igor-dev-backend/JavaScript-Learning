@@ -1,1 +1,2 @@
-Meus Estudos 
+Meus Estudos de JavaScript
+
